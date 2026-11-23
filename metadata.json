@@ -1,0 +1,8 @@
+{
+  "name": "CampusCare | MITS Gwalior",
+  "description": "Campus issue reporting, interactive floor plans, 3D campus explorer, and live maintenance tracking for MITS Gwalior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
